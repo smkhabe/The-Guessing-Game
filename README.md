@@ -40,11 +40,7 @@ After a number of questions or a correct guess, the role switches.
 Scores are tracked and displayed.
 
 
-.
-├── guessing.ipynb        # Core game logic
-├── requirements.txt       # Libraries
-├── .env           # Environment variables (e.g., API keys)
-├── README.md      # You're here!
+
 
 
 
