@@ -17,10 +17,8 @@ This project simulates a game where two language models debate and guess a hidde
 📦 Dependencies
 Ensure you have the following packages installed:
 
-bash
-Copy
-Edit
 pip install langchain langchain-community langchain-core langchain-openai langchain-groq python-dotenv
+
 You’ll also need to configure models like llama2, gpt-4-turbo, or Llama3-70b via LangChain's supported backends (e.g., Ollama, OpenAI, Groq).
 
 🧠 How It Works
